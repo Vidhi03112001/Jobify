@@ -13,7 +13,9 @@ import {Logo} from '../components';
    <div className="container page">
     <div className="info">
       <h1>Let's <span>find</span> a job</h1>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error autem hic rem cupiditate dicta explicabo, quae cumque? Neque iusto sunt accusamus tempore aliquam. Explicabo omnis perspiciatis dicta officiis voluptatibus reprehenderit?</p>
+      <p> This Jobify Application is created to provide a platform for job seekers to find the job opportunities that match their skills and preferences.
+       <br> Make your job search easy and effective.
+        >/p>
       <Link to="/register" className='btn register-link'>Register</Link>
       <Link to="/login" className='btn'>Login / Demo User</Link>
     </div>
